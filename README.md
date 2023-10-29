@@ -2,7 +2,7 @@
 
 **这只是个Guide，因此这里只提供一些路线并记录出现的问题，如果你也出现了这个问题，希望能够帮到你❤。**
 
-
+![Alt text](Ver0.1.png)
 ``` mermaid
 flowchart LR
 subgraph 新手村
@@ -34,7 +34,8 @@ direction TB
 
     F(常用通信协议IIC、UART、SPI、CAN、RS232……)
 
-    J(熟练使用Linux系统发行版)
+    J(熟练使用Linux系统发行版
+    推荐Ubuntu 20.04)
 
     L(在至少一款Linux开发板上
     部署环境与工程)
