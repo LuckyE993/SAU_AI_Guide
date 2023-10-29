@@ -3,7 +3,7 @@
 **这只是个Guide，因此这里只提供一些路线并记录出现的问题，如果你也出现了这个问题，希望能够帮到你❤。**
 
 
-```mermaid
+``` mermaid
 flowchart LR
 subgraph 新手村
     direction TB
