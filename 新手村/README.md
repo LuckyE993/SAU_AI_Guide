@@ -7,7 +7,8 @@
 
 博客园和CSDN都是不错的平台，一些个人站也不错，这些都会在[编程基础.md](编程基础.md)中找到。
 # 算法基础篇
-还没有更新哦。
+Not Available Now.
 # 硬件科普篇
-
+Not Available Now.
 # 电子电路简述
+Not Available Now.
